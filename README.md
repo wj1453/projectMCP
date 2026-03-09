@@ -1,1 +1,1 @@
-# proectMCP
+# projectMCP
